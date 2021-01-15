@@ -1,4 +1,4 @@
-#Hi!
+# Hi!
 
 I'm starting in web development and learning JavaScript based technologies.
 I particularly like React.
